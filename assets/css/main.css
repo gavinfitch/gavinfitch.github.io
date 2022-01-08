@@ -3960,5 +3960,6 @@ input, select, textarea {
 }
 
 .icons > li > a {
+	display: none;
 	font-size: 1.45em;
 }
